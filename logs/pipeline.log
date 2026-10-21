@@ -1,0 +1,60 @@
+2026-10-21 14:26:27,276 | INFO | Starting pipeline run 2
+2026-10-21 14:26:27,281 | INFO | Skipped existing order 1001
+2026-10-21 14:26:27,281 | INFO | Skipped existing order 1002
+2026-10-21 14:26:27,282 | INFO | Skipped existing order 1003
+2026-10-21 14:26:27,282 | INFO | Skipped existing order 1004
+2026-10-21 14:26:27,282 | INFO | Skipped existing order 1005
+2026-10-21 14:26:27,283 | INFO | Skipped existing order 1006
+2026-10-21 14:26:27,283 | INFO | Skipped existing order 1005
+2026-10-21 14:26:27,283 | INFO | Skipped existing order 1008
+2026-10-21 14:26:27,286 | WARNING | Rejected order 1009: Quantity must be greater than zero
+2026-10-21 14:26:27,287 | WARNING | Rejected order 1010: FOREIGN KEY constraint failed
+2026-10-21 14:26:27,287 | WARNING | Rejected order 1011: Price must be greater than zero
+2026-10-21 14:26:27,288 | INFO | Skipped existing order 1012
+2026-10-21 14:26:27,288 | WARNING | Rejected order 1013: FOREIGN KEY constraint failed
+2026-10-21 14:26:27,288 | WARNING | Rejected order 1014: Invalid order date
+2026-10-21 14:26:27,288 | INFO | Skipped existing order 1015
+2026-10-21 14:26:27,289 | INFO | Skipped existing order 1016
+2026-10-21 14:26:27,289 | INFO | Skipped existing order 1017
+2026-10-21 14:26:27,289 | INFO | Skipped existing order 1018
+2026-10-21 14:26:27,296 | INFO | Run 2 completed: processed=18, rejected=5, duplicates=13
+2026-10-21 15:47:01,358 | INFO | Starting pipeline run 3
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1001
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1002
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1003
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1004
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1005
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1006
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1005
+2026-10-21 15:47:01,362 | INFO | Skipped existing order 1008
+2026-10-21 15:47:01,363 | WARNING | Rejected order 1009: Quantity must be greater than zero
+2026-10-21 15:47:01,364 | WARNING | Rejected order 1010: FOREIGN KEY constraint failed
+2026-10-21 15:47:01,364 | WARNING | Rejected order 1011: Price must be greater than zero
+2026-10-21 15:47:01,364 | INFO | Skipped existing order 1012
+2026-10-21 15:47:01,364 | WARNING | Rejected order 1013: FOREIGN KEY constraint failed
+2026-10-21 15:47:01,364 | WARNING | Rejected order 1014: Invalid order date
+2026-10-21 15:47:01,364 | INFO | Skipped existing order 1015
+2026-10-21 15:47:01,365 | INFO | Skipped existing order 1016
+2026-10-21 15:47:01,365 | INFO | Skipped existing order 1017
+2026-10-21 15:47:01,365 | INFO | Skipped existing order 1018
+2026-10-21 15:47:01,369 | INFO | Run 3 completed: processed=18, rejected=5, duplicates=13
+2026-10-21 15:47:03,897 | INFO | Starting pipeline run 4
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1001
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1002
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1003
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1004
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1005
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1006
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1005
+2026-10-21 15:47:03,899 | INFO | Skipped existing order 1008
+2026-10-21 15:47:03,901 | WARNING | Rejected order 1009: Quantity must be greater than zero
+2026-10-21 15:47:03,902 | WARNING | Rejected order 1010: FOREIGN KEY constraint failed
+2026-10-21 15:47:03,902 | WARNING | Rejected order 1011: Price must be greater than zero
+2026-10-21 15:47:03,902 | INFO | Skipped existing order 1012
+2026-10-21 15:47:03,902 | WARNING | Rejected order 1013: FOREIGN KEY constraint failed
+2026-10-21 15:47:03,902 | WARNING | Rejected order 1014: Invalid order date
+2026-10-21 15:47:03,903 | INFO | Skipped existing order 1015
+2026-10-21 15:47:03,903 | INFO | Skipped existing order 1016
+2026-10-21 15:47:03,903 | INFO | Skipped existing order 1017
+2026-10-21 15:47:03,903 | INFO | Skipped existing order 1018
+2026-10-21 15:47:03,907 | INFO | Run 4 completed: processed=18, rejected=5, duplicates=13
